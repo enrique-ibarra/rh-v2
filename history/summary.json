@@ -1,8 +1,8 @@
 [
   {
     "name": "Web",
-    "url": "https:/roaminghunger.com",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://roaminghunger.com",
+    "icon": "https://roaminghunger.com/favicon.ico",
     "slug": "web",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
     "name": "Catering",
     "url": "https://catering.roaminghunger.com",
-    "icon": "https://favicons.githubusercontent.com/catering.roaminghunger.com",
+    "icon": "https://catering.roaminghunger.com/favicon.ico",
     "slug": "catering",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 308,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   }
 ]
