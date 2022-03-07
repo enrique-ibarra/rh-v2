@@ -4,46 +4,50 @@
     "url": "https://roaminghunger.com",
     "icon": "https://roaminghunger.com/favicon.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 309,
     "timeWeek": 313,
-    "timeMonth": 326,
+    "timeMonth": 325,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 2
+    }
   },
   {
     "name": "Catering",
     "url": "https://catering.roaminghunger.com",
     "icon": "https://catering.roaminghunger.com/favicon.ico",
     "slug": "catering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 228,
     "timeWeek": 216,
-    "timeMonth": 257,
+    "timeMonth": 254,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "Kitchen",
     "url": "https://kitchen.roaminghunger.com",
     "icon": "https://kitchen.roaminghunger.com/favicon.ico",
     "slug": "kitchen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
@@ -51,16 +55,18 @@
     "timeWeek": 230,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "Vendor",
     "url": "https://vendor.roaminghunger.com",
     "icon": "https://vendor.roaminghunger.com/favicon.ico",
     "slug": "vendor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 303,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]
