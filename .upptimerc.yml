@@ -39,7 +39,7 @@ status-website:
     - name: "robots"
       content: "noindex"
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
