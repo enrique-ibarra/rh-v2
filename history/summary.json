@@ -4,11 +4,11 @@
     "url": "https://roaminghunger.com",
     "icon": "https://roaminghunger.com/favicon.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 271,
     "timeDay": 225,
@@ -16,7 +16,7 @@
     "timeMonth": 163,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-08-09": 5
+      "2023-08-09": 14
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "catering",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 176,
@@ -36,7 +36,7 @@
     "timeMonth": 151,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-08-09": 3,
+      "2023-08-09": 12,
       "2023-01-25": 33
     }
   },
@@ -47,9 +47,9 @@
     "slug": "kitchen",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 213,
     "timeDay": 245,
@@ -57,7 +57,7 @@
     "timeMonth": 152,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-08-09": 2,
+      "2023-08-09": 11,
       "2023-01-25": 33
     }
   },
@@ -66,19 +66,19 @@
     "url": "https://vendor.roaminghunger.com",
     "icon": "https://vendor.roaminghunger.com/favicon.ico",
     "slug": "vendor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 226,
-    "timeDay": 173,
-    "timeWeek": 153,
-    "timeMonth": 155,
-    "timeYear": 212,
+    "time": 272,
+    "timeDay": 11524,
+    "timeWeek": 2993,
+    "timeMonth": 865,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-08-09": 0,
+      "2023-08-09": 9,
       "2023-01-25": 32
     }
   },
