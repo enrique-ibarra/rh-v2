@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.20%",
     "time": 114,
-    "timeDay": 86,
-    "timeWeek": 119,
-    "timeMonth": 112,
+    "timeDay": 133,
+    "timeWeek": 122,
+    "timeMonth": 114,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-10-10": 1357,
-      "2023-10-09": 1440
+      "2023-10-10": 1357
     }
   },
   {
@@ -30,15 +29,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
-    "time": 110,
-    "timeDay": 128,
-    "timeWeek": 132,
-    "timeMonth": 116,
+    "uptimeYear": "99.20%",
+    "time": 109,
+    "timeDay": 111,
+    "timeWeek": 128,
+    "timeMonth": 117,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-10-10": 1357,
-      "2023-10-09": 1440
+      "2023-10-10": 1357
     }
   },
   {
@@ -51,15 +49,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.20%",
     "time": 104,
-    "timeDay": 57,
-    "timeWeek": 113,
-    "timeMonth": 99,
-    "timeYear": 86,
+    "timeDay": 58,
+    "timeWeek": 112,
+    "timeMonth": 98,
+    "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-10-10": 1357,
-      "2023-10-09": 1440
+      "2023-10-10": 1357
     }
   },
   {
@@ -72,15 +69,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.20%",
     "time": 147,
-    "timeDay": 94,
-    "timeWeek": 98,
+    "timeDay": 67,
+    "timeWeek": 91,
     "timeMonth": 98,
-    "timeYear": 82,
+    "timeYear": 83,
     "dailyMinutesDown": {
-      "2023-10-10": 1357,
-      "2023-10-09": 1440
+      "2023-10-10": 1357
     }
   },
   {
@@ -89,20 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mandrillapp.com.ico",
     "slug": "mandrill",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.19%",
     "time": 329,
-    "timeDay": 306,
-    "timeWeek": 379,
-    "timeMonth": 356,
+    "timeDay": 260,
+    "timeWeek": 357,
+    "timeMonth": 354,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2023-11-02": 23,
-      "2023-10-10": 1357,
-      "2023-10-09": 1440
+      "2023-10-10": 1357
     }
   }
 ]
