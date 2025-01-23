@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 100,
-    "timeWeek": 101,
-    "timeMonth": 107,
+    "timeDay": 124,
+    "timeWeek": 109,
+    "timeMonth": 110,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 106,
-    "timeWeek": 107,
-    "timeMonth": 104,
+    "timeDay": 86,
+    "timeWeek": 100,
+    "timeMonth": 103,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 79,
-    "timeWeek": 110,
-    "timeMonth": 104,
+    "timeDay": 97,
+    "timeWeek": 112,
+    "timeMonth": 103,
     "timeYear": 94,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 81,
-    "timeWeek": 106,
-    "timeMonth": 98,
+    "timeDay": 85,
+    "timeWeek": 97,
+    "timeMonth": 97,
     "timeYear": 87,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,15 @@
     "slug": "mandrill",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 9928,
-    "timeWeek": 2707,
-    "timeMonth": 918,
+    "timeDay": 9945,
+    "timeWeek": 2715,
+    "timeMonth": 917,
     "timeYear": 403,
-    "dailyMinutesDown": {
-      "2025-01-22": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
