@@ -76,17 +76,19 @@
     "url": "https://mandrillapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/mandrillapp.com.ico",
     "slug": "mandrill",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 397,
-    "timeDay": 428,
-    "timeWeek": 330,
-    "timeMonth": 362,
-    "timeYear": 423,
-    "dailyMinutesDown": {}
+    "timeDay": 353,
+    "timeWeek": 324,
+    "timeMonth": 360,
+    "timeYear": 422,
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   }
 ]
