@@ -16,7 +16,7 @@
     "timeMonth": 150,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-01-03": 610,
+      "2026-01-03": 624,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -191,7 +191,7 @@
     "timeMonth": 136,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-01-03": 610,
+      "2026-01-03": 624,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 133,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-01-03": 610,
+      "2026-01-03": 624,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -601,7 +601,7 @@
     "timeMonth": 139,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-01-03": 610,
+      "2026-01-03": 624,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -794,19 +794,19 @@
     "url": "https://mandrillapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/mandrillapp.com.ico",
     "slug": "mandrill",
-    "status": "down",
+    "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 383,
-    "timeDay": 181,
-    "timeWeek": 256,
-    "timeMonth": 306,
+    "timeDay": 245,
+    "timeWeek": 269,
+    "timeMonth": 309,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2026-01-03": 0,
+      "2026-01-03": 14,
       "2025-06-26": 21
     }
   }
